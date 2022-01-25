@@ -1,0 +1,15 @@
+##Tabuada
+number = int(input('Digite um número para resultar a tabuada:\n'))
+fator = 1
+print('-----------')
+print('{}x  {} = {}'.format(number, fator, number))
+print('{}x  {} = {}'.format(number, fator + 1, number * 2))
+print('{}x  {} = {}'.format(number, fator + 2, number * 3))
+print('{}x  {} = {}'.format(number, fator + 3, number * 4))
+print('{}x  {} = {}'.format(number, fator + 4, number * 5))
+print('{}x  {} = {}'.format(number, fator + 5, number * 6))
+print('{}x  {} = {}'.format(number, fator + 6, number * 7))
+print('{}x  {} = {}'.format(number, fator + 7, number * 8))
+print('{}x  {} = {}'.format(number, fator + 8, number * 9))
+print('{}x {} = {}'.format(number, fator + 9, number * 10))
+print('-------------')
