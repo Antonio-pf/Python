@@ -1,4 +1,4 @@
-# verifica qualquer posição
+#  verifica qualquer posição
 nome = str(input('Digite seu nome inteiro: ')).strip()
 
 encontre = nome.find('Silvia')

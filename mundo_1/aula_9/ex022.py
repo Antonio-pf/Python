@@ -1,7 +1,7 @@
-#tudo maius
-#td minus
-#qbdt letras sem espaço
-#qntd o primeiro nome
+# tudo maiuscula
+# td minus
+# qbdt letras sem espaço
+# qntd o primeiro nome
 
 nome_completo = str(input('Digite seu nome completo: ')).strip()
 qntd_sem_espaço = (len(nome_completo)) - nome_completo.count(' ')

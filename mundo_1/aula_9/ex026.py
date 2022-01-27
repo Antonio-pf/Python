@@ -1,4 +1,4 @@
-# primeira e uĺtima ocorrência
+#primeira e uĺtima ocorrência
 
 frase = str(input('Digite uma frase: ')).strip().upper()
 

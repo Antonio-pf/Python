@@ -1,4 +1,4 @@
-#primeiro e último nome
+# primeiro e último nome
 
 nome = str(input('Digite seu nome completo: ')).strip().split()
 print('Prazer em te conhecer!!')
