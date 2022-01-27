@@ -1,0 +1,10 @@
+num = str(input('Digite um valor de 0-9999: '))
+
+print()
+print('Quantidade de:')
+print('------------')
+print('Unidades:{}'.format(num[:3]))
+print('Dezenas: {}'.format(num[:2]))
+print('Centenas: {}'.format(num[:1]))
+print('Milhares: {}'.format(num[:0]))
+print('------------')
