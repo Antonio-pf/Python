@@ -1,4 +1,4 @@
-##Hipotenusa
+# Hipotenusa
 from math import hypot
 cat_oposto = float(input('Digite o cateto oposto: '))
 cat_adjacente = float(input('Digite o cateto adjacente: '))

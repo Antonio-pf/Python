@@ -12,6 +12,6 @@ while name:
     print(nome_alunos[:])
 
 
-print('----------------------------------')
+print('---------------------------------')
 escolhido = random.choice(nome_alunos)
 print('O escolhido foi: ', escolhido)
